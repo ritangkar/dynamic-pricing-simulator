@@ -1,0 +1,11 @@
+server:
+  port: 8088
+
+spring:
+  application:
+    name: dynamic-pricing-simulator
+
+logging:
+  level:
+    root: INFO
+    com.ritangkar.dynamicpricing: INFO
